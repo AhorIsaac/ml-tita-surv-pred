@@ -22,30 +22,23 @@
 
 Follow vividly this instructions to set up  the project.
 
-1. [VSCode Installation](#vscode-installation)
-1. [Python Installation](#python-installation)
-1. [Extensions Installation](#extensions-installation)
-1. [Install Dependencies](#install-dependencies)
-1. [Download Project](#download-project)
-1. [Project Gallery](#project-gallery)
-
 <br />
 
-## VSCode Installation
+### VSCode Installation
 
 - [Download VSCode](https://code.visualstudio.com/download)
 - During the installation, add VSCode to path.
 
 <br />
 
-## Python Installation
+### Python Installation
 
 - [Download Python](https://www.python.org/downloads/)
 - During the installation, add Python to path.
 
 <br />
 
-## Extensions Installation
+### Extensions Installation
 
 Install the following extensions on VSCode.
 
@@ -57,14 +50,14 @@ Install the following extensions on VSCode.
 
 <br />
 
-## Install Dependencies
+### Install Dependencies
 
 Open the command line and run this command.
 `pip install numpy pandas matplotlib scikit-learn seaborn`
 
 <br />
 
-## Download Project
+### Download Project
 
 Follow one of these ways to get this project to your computer 💻
 
@@ -97,12 +90,21 @@ Follow one of these ways to get this project to your computer 💻
 
 This software uses the following open source packages:
 
-- [Python](https://www.python.org/)
-- [Numpy](https://numpy.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [Matplotlib](https://matplotlib.org/)
-- [Seaborn](https://seaborn.pydata.org/)
-- [Scikit-Learn](https://scikit-learn.org/)
+<p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<img src="https://rb.gy/apk32" width="90" height="30" alt="img" style="border: 1px solid white; background-color: white;"  />
+
+</p>
 
 <br />
 
