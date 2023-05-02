@@ -102,7 +102,7 @@ This software uses the following open source packages:
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<img src="https://rb.gy/apk32" width="90" height="30" alt="img" style="border: 1px solid white; background-color: white;"  />
+<img src="images/seaborn.png" width="90" height="30" alt="img" style="border: 1px solid white; background-color: white;"  />
 
 </p>
 
